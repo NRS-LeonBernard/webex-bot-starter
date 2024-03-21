@@ -316,7 +316,7 @@ framework.hears(
 								{
 									type: "TextBlock",
 									weight: "Bolder",
-									text: "Connect to Bennedikt",
+									text: "Connect to Leon",
 									horizontalAlignment: "Left",
 									wrap: true,
 									color: "Light",
@@ -404,7 +404,7 @@ framework.hears(
 								{
 									type: "Image",
 									altText: "",
-									url: `${config.webhookUrl}/chat.png`,
+									url: `${config.webhookUrl}/chat3.png`,
 									size: "Small",
 									width: "35px",
 								},
@@ -420,7 +420,6 @@ framework.hears(
 									text: "[Chat With Your Meeting Partner]()",
 									horizontalAlignment: "Left",
 									size: "Medium",
-
 									color: "Accent",
 								},
 							],

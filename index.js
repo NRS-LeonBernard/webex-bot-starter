@@ -404,7 +404,7 @@ framework.hears(
 								{
 									type: "Image",
 									altText: "",
-									url: `${config.webhookUrl}/chat.jpg`,
+									url: `${config.webhookUrl}/chat.png`,
 									size: "Small",
 									width: "35px",
 								},
